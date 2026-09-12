@@ -5,6 +5,7 @@
     <RootNamespace>Multiplayer_Security_Doors_Expanded_Patch</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>12</LangVersion>
+	<AssemblyVersion>1.0.0.1</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
