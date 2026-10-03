@@ -6,8 +6,9 @@ using Verse;
 namespace MultiplayerSecurityDoorsExpandedPatch.Source.Mods;
 
 /// <summary>
-///     Multiplayer Patch for Security Doors Expanded by LadySylveon, Last Update: 12 Sep @ 5:01am 2026
-///     https://steamcommunity.com/sharedfiles/filedetails/?id=3777106218
+///     Multiplayer Patch for Security Doors Expanded by LadySylveon,
+///     Last Update: 12 Sep @ 5:01am 2026
+///     <see href="https://steamcommunity.com/sharedfiles/filedetails/?id=3777106218" />
 /// </summary>
 [MpCompatFor("Jarocks.SecurityDoorsExpanded")]
 public class SecurityDoorsExpandedPatch
